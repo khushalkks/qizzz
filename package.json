@@ -12,6 +12,7 @@
   "dependencies": {
     "@react-three/drei": "^10.2.0",
     "@react-three/fiber": "^9.1.2",
+    "build": "^0.1.4",
     "firebase": "^11.9.1",
     "framer-motion": "^12.17.0",
     "html2canvas": "^1.4.1",
